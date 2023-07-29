@@ -1,0 +1,11 @@
+<frame>
+    <ui>
+        <div id="wrap1" class="wrap">
+            <text id="text1" class="text">测试文字</text>
+            <img id="loli1" class="loli" src="R/loli1"></img>
+        </div>
+        <div id="wrap2" class="wrap">
+            <button id="btn1" class="btn">按钮测试</button>
+        </div>
+    </ui>
+</frame>
